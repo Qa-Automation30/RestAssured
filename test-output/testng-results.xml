@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2841" started-at="2021-06-05T06:18:48Z" finished-at="2021-06-05T06:18:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2841" started-at="2021-06-05T06:18:48Z" finished-at="2021-06-05T06:18:51Z">
+      <class name="com.test.one.Video55">
+        <test-method status="PASS" signature="extractResponseBody()[pri:0, instance:com.test.one.Video55@3bbc39f8]" name="extractResponseBody" duration-ms="2807" started-at="2021-06-05T06:18:48Z" finished-at="2021-06-05T06:18:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractResponseBody -->
+      </class> <!-- com.test.one.Video55 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
